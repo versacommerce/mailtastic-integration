@@ -1,8 +1,6 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
 [<img src="mailtastic.png" width="80px" align="right" alt="mailtastic.de">](https://www.mailtastic.de/?utm_source=www.versacommerce.de)
 
-[VersaCommerce] [integration] [javascript] [Mailtastic]
-
 # Mailtastic Integration for VersaCommerce
 
 ## Mailtastic
